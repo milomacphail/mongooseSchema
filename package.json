@@ -1,0 +1,19 @@
+{
+  "name": "mongooseschema",
+  "version": "1.0.0",
+  "description": "Sample Mongoose call and schema structuring",
+  "main": "schema.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/milomacphail/mongooseSchema.git"
+  },
+  "author": "Milo MacPhail",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/milomacphail/mongooseSchema/issues"
+  },
+  "homepage": "https://github.com/milomacphail/mongooseSchema#readme"
+}
